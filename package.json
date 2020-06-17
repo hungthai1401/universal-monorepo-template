@@ -10,7 +10,7 @@
     "packages/*"
   ],
   "scripts": {
-	"bootstrap": "lerna bootstrap --use-workspaces",
+    "bootstrap": "lerna bootstrap --use-workspaces",
     "start": "lerna run start --parallel",
     "build": "lerna run build --parallel"
   },
